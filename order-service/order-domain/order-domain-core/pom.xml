@@ -11,4 +11,10 @@
 
     <artifactId>order-domain-core</artifactId>
 
+    <properties>
+    </properties>
+
+    <dependencies>
+    </dependencies>
+
 </project>

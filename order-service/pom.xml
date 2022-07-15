@@ -19,4 +19,8 @@
         <module>order-container</module>
     </modules>
 
+    <properties>
+
+    </properties>
+
 </project>
