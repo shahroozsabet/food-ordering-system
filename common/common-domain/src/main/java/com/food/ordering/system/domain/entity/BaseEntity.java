@@ -25,5 +25,4 @@ public abstract class BaseEntity<ID> {
     public int hashCode() {
         return Objects.hash(id);
     }
-
 }
